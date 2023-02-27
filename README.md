@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/FhdPf1r.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Launch Scan & View Results</h1>
+<h1>Lunch Scan and View Results</h1>
 This tutorial outlines how to lunch scan and view results after scanning.<br />
 
 
